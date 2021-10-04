@@ -10,3 +10,4 @@ Pre-requisites :
   5. Divide and Conquer
   6. Hashing
   7. Graph
+  8. Heap Data Structure
